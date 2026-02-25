@@ -1,43 +1,41 @@
-Code Logic Visualizer
-Project Description
+# Code Logic Visualizer
+
+## Project Description
 
 Code Logic Visualizer is a web application that helps users understand how code works step-by-step. It visually represents program execution, variables, and logic flow so that users can easily understand programming concepts.
 
 This tool is useful for students and beginners who want to learn programming in a visual way.
 
-Features
+---
 
-Code editor for writing programs
+## Features
 
-Step-by-step execution
+- Code editor for writing programs  
+- Step-by-step execution  
+- Logic visualization  
+- Variable tracking  
+- Control panel for running code  
+- Memory visualization  
+- Interactive interface
 
-Logic visualization
+---
 
-Variable tracking
+## Technologies Used
 
-Control panel for running code
+### Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
 
-Memory visualization
+### Tools
+- VS Code
+- GitHub
 
-Interactive interface
+---
+## Project Structure
+## Project Structure
 
-Technologies Used
-
-Frontend:
-
-React.js
-
-TypeScript
-
-Tailwind CSS
-
-Tools:
-
-VS Code
-
-GitHub
-
-Project Structure
+```
 code-logic-visualizer/
 │
 ├── app/
@@ -56,23 +54,21 @@ code-logic-visualizer/
 │   └── execution-engine.ts
 │
 ├── public/
-│   └── images/
-│
-├── styles/
-│   └── globals.css
 │
 ├── package.json
-├── package-lock.json
 ├── tsconfig.json
-├── next.config.js
 └── README.md
-Installation
+```
+
+---
+
+## Installation
 
 Clone the repository:
 
 git clone https://github.com/lithika-1234/code-logic-visualizer.git
 
-Open the project folder:
+Open folder:
 
 cd code-logic-visualizer
 
@@ -80,27 +76,18 @@ Install dependencies:
 
 npm install
 
-Run the project:
+Run project:
 
 npm run dev
 
 Open in browser:
 
 http://localhost:3000
-How It Works
 
-Enter code in the editor
+---
 
-Run or step through the program
-
-Observe how variables change
-
-Understand the program logic visually
-
-Author
+## Author
 
 Lithika Jayaprakash
-Computer Science Student
 
-GitHub:
-https://github.com/lithika-1234
+
